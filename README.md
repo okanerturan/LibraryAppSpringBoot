@@ -87,7 +87,7 @@ Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
 ## Kurulum
 
 1. Projeyi klonlayın.
-    - `git clone https://github.com/okturan/LibraryAppSpringBoot.git`
+    - `git clone https://github.com/okanerturan/LibraryAppSpringBoot.git`
 2. Docker yüklü ise,
     1. `cp .env.example .env`
     2. `.env` içindeki yerel veritabanı kullanıcı adı ve parolasını değiştirin.
